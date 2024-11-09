@@ -1,2 +1,3 @@
 # Bus-Ticket
-Bus-Ticket software for Tour and Travels company
+Bus-Ticket software for my SD Tour and Travels company 
+www.sdtourandtravels.com
